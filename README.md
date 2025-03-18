@@ -57,7 +57,7 @@ $$T_{C}={\frac{T_{e}+T_{l}}{2}}$$
 ```
 
 # Results
-Here is the comparison between the "compact simulator" (other simulated departments of the power plant such as electricity, control engineering unit...) connected to my point kinetic module and the same connected to the KIKO3D model.
+Here is the comparison between the "compact simulator" (other simulated departments of the power plant such as electricity, control engineering unit...) connected to my point kinetic module and the same connected to the KIKO3D model with respect to the control rods positions.
 
 ![](https://github.com/virshlee/pointkin/blob/main/comp1.png)
 ![](https://github.com/virshlee/pointkin/blob/main/comp2.png)
