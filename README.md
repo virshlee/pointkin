@@ -57,8 +57,10 @@ $$T_{C}={\frac{T_{e}+T_{l}}{2}}$$
 ```
 
 # Results
-Here is the comparison between the "compact simulator" (other simulated departments of the power plant such as electricity, control engineering unit...) connected to my point kinetic module and the same connected to the KIKO3D CFD model.
+Here is the comparison between the "compact simulator" (other simulated departments of the power plant such as electricity, control engineering unit...) connected to my point kinetic module and the same connected to the KIKO3D model.
 
+![](https://github.com/virshlee/pointkin/blob/main/comp1.png)
+![](https://github.com/virshlee/pointkin/blob/main/comp2.png)
 # References
 Sebestyén J. J., Gábor H., András K., & József P. (2013). Tapasztalatok csatolt 3D 
 neutronkinetikai és termohidraulikai szimulációs modellekkel. 7.
