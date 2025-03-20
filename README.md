@@ -61,6 +61,9 @@ Here is the comparison between the "compact simulator" (other simulated departme
 
 ![](https://github.com/virshlee/pointkin/blob/main/comp1.png)
 ![](https://github.com/virshlee/pointkin/blob/main/comp2.png)
+![](https://github.com/virshlee/pointkin/blob/main/comp3.png)
+
+The point kinetic reacto simulation gives similar results to KIKO3D in 50-100% nominal performance.
 # References
 Sebestyén J. J., Gábor H., András K., & József P. (2013). Tapasztalatok csatolt 3D 
 neutronkinetikai és termohidraulikai szimulációs modellekkel. 7.
